@@ -1,6 +1,6 @@
 # GePSAn: Generative Procedure Step Anticipation in Cooking Videos
 
-This repository contains the code for **GePSAn**, a model designed for anticipating procedural steps in cooking videos using generative techniques.
+This repository contains the code for [**GePSAn**](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelsalam_GePSAn_Generative_Procedure_Step_Anticipation_in_Cooking_Videos_ICCV_2023_paper.pdf), a model designed for anticipating procedural steps in cooking videos using generative techniques.
 
 ## Data Preparation
 
